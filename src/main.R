@@ -8,7 +8,7 @@ require("ProjectTemplate")
 load.project()
 
 # data used in the model
-save( list = ls(pattern="DTB"), file='~/cache/DTB.R' )
-load(file='~/cache/DTB.R')
+save( list = ls(pattern="DTB"), file='~/cache/DTB.RData' )
+load(file='~/cache/DTB.RData')
 
 
