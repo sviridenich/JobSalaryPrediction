@@ -1,0 +1,5 @@
+# Here we have original data in zip and raw format, all of this might be downloaded from original source
+
+*.7z
+*.zip
+*.csv

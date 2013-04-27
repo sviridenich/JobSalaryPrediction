@@ -1,0 +1,4 @@
+# In this folder I save cubersome R objects, which I do not want to track
+
+*.R
+*.RData
