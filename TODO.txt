@@ -1,0 +1,3 @@
+To profile tdm function in order to find how it depends from sample size
+To solve problem with document stemming
+To refactor hard codede TDM control
